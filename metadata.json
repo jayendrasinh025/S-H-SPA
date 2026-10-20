@@ -1,0 +1,6 @@
+{
+  "name": "S&H Spa Massage",
+  "description": "Editorial website concept and booking enquiry experience for S&H Spa Massage in Toronto, Ontario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
